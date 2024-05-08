@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "vscode-pets.position": "explorer",
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petType": "fox"
+}
